@@ -1,0 +1,24 @@
+# Build / object files
+*.o
+*.obj
+*.out
+*.exe
+
+# Build folders / outputs
+bin/
+build/
+out/
+
+# IDE / Editor
+.vscode/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Libraries
+lib/
+
+# Fonts files
+arial.ttf
